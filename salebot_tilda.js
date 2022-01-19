@@ -561,7 +561,7 @@ if(SalebotTildaIntegration == undefined){
                     init_phone_input()
                 }
             }
-            link.href        = `salebot_tilda.css`
+            link.href        = `https://levisfaustus.github.io/salebot_tilda/salebot_tilda.css`
             link.rel         = 'stylesheet'
             link.type        = 'text/css'
             link.media       = 'all'

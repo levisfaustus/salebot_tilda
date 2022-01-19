@@ -287,7 +287,7 @@ html .sb_block .sb_btn {
     display: inline-flex;
     max-height: 30px;
     margin: 12px;
-    padding-top: 48px;
+    padding: 64px;
 }
 
 /* line 238, app/assets/stylesheets/mini_landing_page.scss */

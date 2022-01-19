@@ -285,9 +285,9 @@ html .sb_block img {
 html .sb_block .sb_btn {
     box-sizing: content-box;
     display: inline-flex;
-    max-height: 60px;
+    max-height: 30px;
     margin: 12px;
-    padding: 12px;
+    padding: 24px;
 }
 
 /* line 238, app/assets/stylesheets/mini_landing_page.scss */
